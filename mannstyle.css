@@ -1,0 +1,61 @@
+div#My_head {
+	width: 100%;
+	height: 85px;
+	background-color: #02099c;
+	padding: 10px;
+}
+
+div#My_neck {
+	width: 100%;
+	height: 50px;
+	background-color: coral;
+	padding: 10px;
+	font-family: Sans-serif;
+}
+
+div#My_body {
+	width: 100%;
+	height: 500px;
+	background-color: white;
+	padding: 10px;
+	font-family: Sans-serif;
+}
+
+div#Banner_body {
+	width: 100%;
+	height: 400px;
+	background-color: white;
+	padding: 10px;
+	font-family: Sans-serif;
+}
+
+div#My_foot {
+	width: 100%;
+	height: 20px;
+	background-color: coral;
+	padding: 10px;
+	font-family: Sans-serif;
+}
+
+div#My_body_text {
+	width: 60%;
+	height: 400px;
+	background-color: #eeeeee;
+	padding: 10px;
+	float: left;
+	font-family: Sans-serif;
+}
+
+div#My_body_image {
+	width: 30%;
+	height: 400px;
+	background-color: #FF7F50;
+	padding: 10px;
+	float:left;
+	font-family: Sans-serif;
+}
+img:hover {  
+	border:2px solid red;  
+	box-shadow: 0 0 10px #333;  
+	
+}
